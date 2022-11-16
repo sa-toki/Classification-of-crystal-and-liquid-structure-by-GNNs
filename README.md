@@ -20,7 +20,7 @@ The program is compiled into a Jupyter notebook format file, which should be run
 `conda install jupyter`
 
 ## Training program
-*Training_program.ipynb* is a program for learning structural classification using graph neural networks. You can run the training from loading training data. The implementation of the deep learning model is not written in this program, so please create a deep learning model using python `classes` in the program, and then load it as an object into `net`.
+*Training_program.ipynb* is a program for learning structural classification using graph neural networks. You can run the training from loading training data. The implementation of the deep learning model is not written in this program, so please create a deep learning model using python `class` in the program, and then load it as an object into `net`.
 
 The implementation of the graph neural network used in the paper can be implemented by referring to the original paper[1,2].
 
