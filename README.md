@@ -1,5 +1,7 @@
 # Classification-of-crystal-and-liquid-structure-by-GNNs
 
+This is the code for our paper "Applying deep learning models based on graph neural network for classification of crystal and liquid structures".
+
 ## Make training data by MD simulation
 We use *[GROMACS](https://manual.gromacs.org/current/index.html)* software to conduct our MD simulation.
 
