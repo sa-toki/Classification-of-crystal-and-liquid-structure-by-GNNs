@@ -21,6 +21,8 @@ The program is compiled into a Jupyter notebook format file, which should be run
 
 `conda install jupyter`
 
+After installing jupyter, see and run load_gromacs_data.ipynb
+
 ## Training program
 *Training_program.ipynb* is a program for learning structural classification using graph neural networks. You can run the training from loading training data. The implementation of the deep learning model is not written in this program, so please create a deep learning model using python `class` in the program, and then load it as an object into `net`.
 
