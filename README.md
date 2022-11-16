@@ -11,3 +11,12 @@ In the directory named gromacs_simulation, we place the input files for the init
 `bash 1c_ice.sh`
 3. MD simulation for Water structure
 `bash water.sh`
+
+## Load MD data as numpy file
+We use [Anaconda](https://www.anaconda.com/products/distribution). See the installation.
+
+The program is compiled into a Jupyter notebook format file, which should be run after installing Jupyter notebook using Anaconda.
+
+`conda install jupyter`
+
+## Training program
