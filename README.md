@@ -22,7 +22,7 @@ The program is compiled into a Jupyter notebook format file, which should be run
 ## Training program
 *Training_program.ipynb* is a program for learning structural classification using graph neural networks. You can run the training from loading training data. The implementation of the deep learning model is not written in this program, so please create a deep learning model using python `class` in the program, and then load it as an object into `net`.
 
-The implementation of the graph neural network used in the paper can be implemented by referring to the original paper[1,2].
+The implementation of the graph neural network, Graph convolutional network(GCN) and Tensor embedded atom network(TeaNet), used in the paper can be implemented by referring to the original paper[1,2].
 
 [1]  Kipf, T. N.; Welling, M. Semi-supervised classification with graph con-
 volutional networks. arXiv:1609.02907 2016, arXiv e-print archive.
